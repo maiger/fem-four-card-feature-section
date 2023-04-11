@@ -11,6 +11,10 @@ html {
   }
 }
 
+body {
+  background-color: var(--color-neutral-gray1);
+}
+
 .header {
   display: flex;
   flex-direction: column;
